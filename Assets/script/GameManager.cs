@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    //Git Test
     public GameObject winpanelobj;
     public GameObject losepanel;
 
